@@ -18,7 +18,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | F-Secure | | | |
 | Kaspersky | Y | 10/10/2018 | https://help.kaspersky.com/KIS/2019/en-US/119653.htm |
 | McAfee | Y | 06/25/2018 | https://kc.mcafee.com/corporate/index?page=content&id=PD27443
-| Panda | | | |
+| Panda - Aether Platform| Y | 07/23/2020 | https://info.pandasecurity.com/aether/?product=EP,EPP,AD,AD360&lang=en  |
 | SentinelOne | | | |
 | Sophos    |   Y  | 08/25/20    | https://support.sophos.com/support/s/article/KB-000039096?language=en_US Thanks, [@kmkz](https://github.com/kmkz)!|
 | Symantec | Y | 07/15/2020 | https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/symantec-security-software/endpoint-security-and-management/endpoint-protection/all/release-notes/Whats-new-for-Symantec-Endpoint-Protection-14_3-.html Thanks, [Jeff McJunkin](https://github.com/jeffmcjunkin)!|
