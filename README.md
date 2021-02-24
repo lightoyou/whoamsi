@@ -15,7 +15,7 @@ The purpose of this page is to be a repository of endpoint protection (AV, EDR, 
 | Cylance | | | |
 | Dr. Web |  | |
 | ESET | Y | 04/12/2017 | https://forum.eset.com/topic/11645-beta-eset-endpoint-security-66-is-available-for-evaluation
-| F-Secure | | | |
+| F-Secure | Y | | https://help.f-secure.com/product.html#business/computer-protection-windows/latest/en/task_ED11EEBB08DD4583AFA13EA59D3FC768-latest-en |
 | Kaspersky | Y | 10/10/2018 | https://help.kaspersky.com/KIS/2019/en-US/119653.htm |
 | McAfee | Y | 06/25/2018 | https://kc.mcafee.com/corporate/index?page=content&id=PD27443
 | Panda | | | |
